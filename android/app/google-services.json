@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757566363285",
+    "project_id": "ht6-project",
+    "storage_bucket": "ht6-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757566363285:android:e613efeb2c18f15176ad9c",
+        "android_client_info": {
+          "package_name": "com.example.teenspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757566363285-k8nqccp5i64077pgtromqunkpp2u6t6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6P8fqYFQZJvvWsbt5rBMJkQpXNj8PJr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757566363285-k8nqccp5i64077pgtromqunkpp2u6t6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
